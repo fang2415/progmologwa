@@ -2,7 +2,7 @@
 
 ## TL;DR: what does `progmologwa` do?
 
-`progmologwa` lets you log exercises and other activities and automatically remembers and calculates stuff from the last time they were performed.  It has been tested with the [Reddit Fitness Basic Beginner Routine](https://thefitness.wiki/routines/r-fitness-basic-beginner-routine/), [Stronglifts 5x5](https://stronglifts.com/), [GZCLP](https://thefitness.wiki/routines/gzclp/), and several of [Jim Wendler's 5/3/1 programs](https://thefitness.wiki/5-3-1-primer/).  It also works nicely as a bodyweight and calorie tracker or to keep notes on sessions of activities like cycling, windsurfing, or sleep.  Setting it up requires some patience and for you to get your hands a little dirty with spreadsheet cells, but after that it's designed to keep running smoothly more or less forever.
+`progmologwa` lets you log exercises and other activities and automatically remembers and calculates stuff from the last time they were performed.  It has been tested with the [Reddit Fitness Basic Beginner Routine](https://thefitness.wiki/routines/r-fitness-basic-beginner-routine/), [Stronglifts 5x5](https://stronglifts.com/), [Cody Lefever's GZCLP](https://thefitness.wiki/routines/gzclp/), and several of [Jim Wendler's 5/3/1 programs](https://thefitness.wiki/5-3-1-primer/).  It also works nicely as a bodyweight and calorie tracker or to keep notes on sessions of activities like cycling, windsurfing, or sleep.  Setting it up requires some patience and for you to get your hands a little dirty with spreadsheet cells, but after that it's designed to keep running smoothly more or less forever.
 
 ## Goals
 

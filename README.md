@@ -121,4 +121,4 @@ The `.fods` file format makes it (sorta) easier for git to track changes to the 
 
 Note that the formulas are a good deal bigger than the values they compute.  If the workbook is getting too large, you can save space and memory by pasting the values of rows that no longer need updating over the formulas.
 
-Unfortunately, I know of no good mechanism to seamlessly update spreadsheets.  When a new version comes out, you'll need to start with a fresh templates and paste in your data.  Hopefully this will require only a few copy-pastes per sheet, plus using ctrl-cmd-D to extend the formulas to the bottom of your data.
+Unfortunately, I know of no good mechanism to seamlessly update spreadsheets.  When a new version comes out, you'll need to start with a fresh template and paste in your data.  Hopefully this will require only a few copy-pastes per sheet, plus using ctrl/cmd-D to extend the formulas to the bottom of your data.

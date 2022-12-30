@@ -8,7 +8,7 @@
 
 When I started doing some strength training, I wanted to keep track of my exercises using something that let me do the following:
 
-- Read and input data on a(n Android) mobile using only Free Software
+- Read and input data on a(n Android) mobile using only Free Software (like [Collabora](https://www.collaboraoffice.com/collabora-office-android-ios/)
 - Read and input data on a desktop using only Free Software
 - Operate on local devices without requiring cloud storage
 - Store information on how to perform any movement
